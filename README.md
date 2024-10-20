@@ -1,4 +1,4 @@
-# 🌐 Sandeep Kherkatary's Portfolio
+# 🌐 Mridul Rabha Portfolio
 
 Welcome to my portfolio website! This project showcases my work, skills, and experiences as a developer. It’s built using a modern tech stack to deliver a fast and responsive user experience.
 
