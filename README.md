@@ -16,8 +16,7 @@ Follow the steps below to clone and run the project locally:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/kherkatary/dev-portfolio.git
-
+   git clone https://github.com/mridul-22/portfolio-Mridul.git
 2. **Change the directory:**
 
    ```bash 
