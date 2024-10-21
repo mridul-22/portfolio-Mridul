@@ -4,7 +4,7 @@ import { CiLink } from "react-icons/ci";
 const Resume = () => {
     return (
         <div className={styles.container}>
-            <a href="https://drive.google.com/file/d/1zL7xA7RwTUSOj5Rp02elkgULmd_jM78n/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/11kKp4iWkH02qdAWzBQfyV3kxs2dt0hTy/view?usp=sharing">
 
             
             <div className={styles.btn}>Resume <div> <CiLink /> </div> </div>
