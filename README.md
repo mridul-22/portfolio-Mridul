@@ -1,4 +1,4 @@
-# 🌐 Sandeep Kherkatary's Portfolio
+# 🌐 Mridul Rabha Portfolio
 
 Welcome to my portfolio website! This project showcases my work, skills, and experiences as a developer. It’s built using a modern tech stack to deliver a fast and responsive user experience.
 
@@ -16,8 +16,7 @@ Follow the steps below to clone and run the project locally:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/kherkatary/dev-portfolio.git
-
+   git clone https://github.com/mridul-22/portfolio-Mridul.git
 2. **Change the directory:**
 
    ```bash 
